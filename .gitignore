@@ -70,6 +70,7 @@ tests/sai_warmboot.bin
 tests/swsslogentercheck.sh.log
 tests/swsslogentercheck.sh.trs
 tests/test-suite.log
+tests/tests
 
 vslib/src/test-suite.log
 vslib/src/tests
